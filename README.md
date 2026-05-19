@@ -1,4 +1,4 @@
-"""# OZX SOUNDCRAFT: 31-Bands Audio Terminal
+# OZX SOUNDCRAFT: 31-Bands Audio Terminal
 
 **OZX SOUNDCRAFT** iku *Web Audio API* terminal-style player sing dirancang kanggo para audiophile sing pengen kontrol frekuensi *real-time* tanpa *bloatware* pabrikan.
 
